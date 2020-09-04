@@ -9,6 +9,7 @@
     "no-console": "warn",
     "comma-dangle": "off",
     "react/jsx-filename-extension": "off",
-    "semi": "off"
+    "semi": "off",
+    "space-before-function-paren": "off"
   }
 }
